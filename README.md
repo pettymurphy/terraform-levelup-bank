@@ -66,5 +66,5 @@ terraform destroy    # Tear it all down (optional)
 ## 👨🏾‍💻 Created by
 
 **Derrick Pope**  
-[LinkedIn](https://www.linkedin.com/in/derrick-pope-3744aaa46/)  
+[LinkedIn](https://www.linkedin.com/in/derrick-pope/)  
 AWS Certified | DevOps | Security | Infrastructure Automation
